@@ -1,6 +1,6 @@
-# Guide to Blockchain explorer
+# Guide to Blockchain Explorer
 
-You can use the block explorer at http://192.168.4.81:3000 (VPN needed right now)
+You can use the block explorer at http://192.168.4.81:3000 (VPN needed right now; will be made public soon)
 
 ## Blockchain Platform
 
