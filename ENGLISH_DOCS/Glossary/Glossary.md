@@ -34,3 +34,4 @@ The approximate of block production time is recorded as Unix timestamp, which is
 Transaction refers to the process of token transfer between different accounts.
 ## Transaction Broadcasting	
 Transaction information is verified by nodes and broadcasted in the blockchain network.
+
