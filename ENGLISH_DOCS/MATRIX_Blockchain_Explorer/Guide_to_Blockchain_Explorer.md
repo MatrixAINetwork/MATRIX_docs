@@ -2,7 +2,9 @@
 
 You can use the block explorer at http://192.168.4.81:3000 (VPN needed right now)
 
-## Blockchain module
+## Blockchain Platform
+
+![](https://i.imgur.com/vR1Wj9v.png)
 
 ### Block Search
 
