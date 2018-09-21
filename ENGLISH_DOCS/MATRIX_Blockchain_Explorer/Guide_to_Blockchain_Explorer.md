@@ -8,7 +8,7 @@ You can use the block explorer at http://203.93.121.30:3164/home
 
 ### Block Search
 
-Information on all blocks—from the genesis block to all current blocks—can be found on this page, including block height, its previous and next blocks and the corresponding miners. You can also use the search bar to search by other information
+Information on all blocks—from the genesis block to all current blocks—can be found on this page, including block height, its previous and next blocks and the corresponding miners. You can also use the search bar to search by other criteria, such as, address, BlockNum, TxHash, etc.
 
 ![](https://i.imgur.com/9RKx2kD.png)
 
