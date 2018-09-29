@@ -8,6 +8,8 @@
 
 + If you want to know more about How to deploy MATRIX, please check out ['User Guide'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/MATRIX_User_guide/User%20Guide.md)
 
++ If you want to better understand what a specific term refers to, please check out ['glossary'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/Glossary/Glossary.md)
+
 
 # 文档
 
