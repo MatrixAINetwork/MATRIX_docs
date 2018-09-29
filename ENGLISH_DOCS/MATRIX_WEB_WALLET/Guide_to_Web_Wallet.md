@@ -126,7 +126,7 @@ The only difference with deposit transactions is:
 
 #### If it displays "Transaction Found", the transaction has already been recorded on the blockchain.
 
-![](https://i.imgur.com/iGCs8a0.png)
+![](https://i.imgur.com/rGzXRSX.png)
 
 #### If it displays "Pending Transaction Found", the transaction is in the transaction pool, which can be cancelled or replaced by clicking 'Cancel or Replace Transaction'
 
