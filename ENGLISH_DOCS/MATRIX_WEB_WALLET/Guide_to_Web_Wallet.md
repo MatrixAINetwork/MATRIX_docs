@@ -117,3 +117,19 @@ Take minerDeposits for example, you will need to deposit 10,000 MAN (the same pr
 The only difference with deposit transactions is:
 
 ![](https://i.imgur.com/Appem22.png)
+
+
+## Check Transaction Status
+
+
+![](https://i.imgur.com/ifyaebv.png)
+
+#### If it displays "Transaction Found", the transaction has already recorded on the blockchain.
+
+![](https://i.imgur.com/iGCs8a0.png)
+
+#### If it displays "Pending Transaction Found", the transaction is in the transaction pool, which can be cancelled or replaced by clicking 'Cancel or Replace Transaction'
+
+
+![](https://i.imgur.com/DgnfqMh.png)
+
