@@ -4,13 +4,13 @@ You can use the block explorer at： to be announced soon
 
 ## Blockchain Platform
 
-![](https://i.imgur.com/vR1Wj9v.png)
+![](https://i.imgur.com/rqnruo5.png)
 
 ### Block Search
 
 Information on all blocks—from the genesis block to all current blocks—can be found on this page, including block height, its previous and next blocks and the corresponding miners. You can also use the search bar to search by other criteria, such as, address, BlockNum, TxHash, etc.
 
-![](https://i.imgur.com/9RKx2kD.png)
+![](https://i.imgur.com/YQCD7sA.png)
 
 ### Transaction Search
 
