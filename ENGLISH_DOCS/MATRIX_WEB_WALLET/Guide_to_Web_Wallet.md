@@ -124,7 +124,7 @@ The only difference with deposit transactions is:
 
 ![](https://i.imgur.com/ifyaebv.png)
 
-#### If it displays "Transaction Found", the transaction has already recorded on the blockchain.
+#### If it displays "Transaction Found", the transaction has already been recorded on the blockchain.
 
 ![](https://i.imgur.com/iGCs8a0.png)
 
