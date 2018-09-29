@@ -106,4 +106,12 @@ Take minerDeposits for example, you will need to deposit 10,000 MAN (the same pr
 ![](https://i.imgur.com/Zt3Q0fF.png)
 
 
+![](https://i.imgur.com/UM9GZj0.png)
 
+![](https://i.imgur.com/AIF8I1v.png)
+
+## WITHDRWAL TRANSACTIONS & REFUND TRANSACTIONS (Under 'Contracts')
+
+The only difference with deposit transactions is:
+
+![](https://i.imgur.com/Appem22.png)
