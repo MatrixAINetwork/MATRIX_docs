@@ -11,6 +11,8 @@ There are a couple of things you need to know about the web client before you us
 - The security of your wallet depends entirely on the security of your web browser.
 - You can put a pin on your wallet to prevent sending funds but any other access is dependent entirely on the access controls on your computer, not on the server or any login details. 
 
+Web URL: Will be announced soon
+
 
 ## Create New Wallet
 
@@ -106,9 +108,9 @@ Take minerDeposits for example, you will need to deposit 10,000 MAN (the same pr
 ![](https://i.imgur.com/Zt3Q0fF.png)
 
 
-![](https://i.imgur.com/UM9GZj0.png)
+![](https://i.imgur.com/gTMWsav.png)
 
-![](https://i.imgur.com/AIF8I1v.png)
+![](https://i.imgur.com/RGOpQH6.png)
 
 ## WITHDRWAL TRANSACTIONS & REFUND TRANSACTIONS (Under 'Contracts')
 
