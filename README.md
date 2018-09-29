@@ -1,6 +1,6 @@
 # Documentation
 
-# Documentation Guide
+## Documentation Guide
 
 + If you want to know more about MATRIX Web Wallet, please check out ['Guide to Web Wallet'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/MATRIX_WEB_WALLET/Guide_to_Web_Wallet.md)
 
@@ -11,7 +11,7 @@
 
 # 文档
 
-# 文档指引
+##文档指引
 
 + 如果你想了解 MATRIX 网页钱包的操作方法，请查看[《MATRIX 网页钱包教程》](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/%E7%BD%91%E9%A1%B5%E9%92%B1%E5%8C%85%E6%89%8B%E5%86%8C.md)
 
