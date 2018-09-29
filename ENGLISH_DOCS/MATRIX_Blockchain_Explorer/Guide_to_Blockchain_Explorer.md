@@ -1,6 +1,6 @@
 # Guide to Blockchain Explorer
 
-You can use the block explorer at http://203.93.121.30:3164/home
+You can use the block explorer at： to be announced soon
 
 ## Blockchain Platform
 
