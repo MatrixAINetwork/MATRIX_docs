@@ -1,6 +1,6 @@
 # Guide to Blockchain Explorer
 
-You can use the block explorer at： explorer1.matrix.io
+You can use the block explorer at： http://tom.matrix.io/
 
 ## Blockchain Platform
 
