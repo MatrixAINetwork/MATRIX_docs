@@ -103,20 +103,54 @@ Finally, confirm the transfer information, and click 'Yes, I am sure! Make trans
 
 In order to be a candidate of MATRIX miners or validators, you must first make the required deposits, which is generally accomplished via our smart contract.
 
-Take minerDeposits for example, you will need to deposit 10,000 MAN (the same process for validatorDeposits, with the deposit amount of 100,000 MAN)
 
-![](https://i.imgur.com/Zt3Q0fF.png)
+There are two types of deposit transactions: deposit for miners (deposit should be between 10,000 and 100,000 MANs) and deposit for validators (deposit should be equal to or greater than 100,000 MANs).
 
 
-![](https://i.imgur.com/gTMWsav.png)
+Two actions will be needed when you want to quit from deposit: Withdraw and Refund.
 
-![](https://i.imgur.com/RGOpQH6.png)
+When the withdraw is completed, it will display a withdraw height in the status bar. And when the refund is completed, the deposits will be returned to the original account.
 
-## WITHDRWAL TRANSACTIONS & REFUND TRANSACTIONS (Under 'Contracts')
+> **Note: gasprice and gaslimit in deposit transactions are not required to be filled in manually, and set as default**
 
-The only difference with deposit transactions is:
+#### View the Deposit Status: Input the account address
 
-![](https://i.imgur.com/Appem22.png)
+![](https://i.imgur.com/rbeoetH.png)
+
+ 	Deposit Amount: The unit is WEI. The real amount is the result dividing the Deposit Amount by (1+e18) - ten to the power of 18.
+
+ 	NodeID: The ID of nodes qualified for deposits and election (You need to run gman when performing the testing, and obtain this id via commandline)
+
+ 	Deposit Status: well deposited; already quit from deposit at xx height but not refunded yet
+
+
+##### How to carry out deposit transactions
+
+For miner deposit: 1w<deposit amount<10w
+
+![](https://i.imgur.com/PKdwssH.png)
+
+For validator deposit: deposit amount>=10w
+![](https://i.imgur.com/IX3MGt3.png)
+
+## WITHDRWAL from DEPOSIT TRANSACTIONS  (Under 'Contracts')
+
+You can withdraw from deposit and view the status after submitting the withdraw request.
+
+**NOTE:** After the withdrawl, the account will still appear in the deposit list but with no reward. There are two requirements for a real withdrawl: reach a specified height (= latest height - original height); succees in refund
+
+
+![](https://i.imgur.com/AIFWzWM.png)
+
+![](https://i.imgur.com/PomNx9P.png)
+
+## REFUND TRANSACTIONS (Under 'Contracts')
+
+Similar to Withdrawl transactions, refund transactions will also be completed at a specified height. The original deposit will be returned to the account, and all related deposit information will be cleared
+
+![](https://i.imgur.com/8Pts1Xj.png)
+
+
 
 
 ## Check Transaction Status
