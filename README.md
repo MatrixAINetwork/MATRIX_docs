@@ -23,4 +23,4 @@
 
 + MATRIX 部署手册请查看[《部署手册》](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8C.md)
 
-+ MATRIX 测试链向友好用户开放测试链 MAN 币申请，有关申请途径请查看[《MAN币的兑换与申请》](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/MAN%E5%B8%81%E7%9A%84%E5%85%91%E6%8D%A2%E4%B8%8E%E7%94%B3%E8%AF%B7.md)
++ MATRIX 向友好用户开放测试链 MAN 币申请，有关申请途径请查看[《MAN币的兑换与申请》](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/MAN%E5%B8%81%E7%9A%84%E5%85%91%E6%8D%A2%E4%B8%8E%E7%94%B3%E8%AF%B7.md)
