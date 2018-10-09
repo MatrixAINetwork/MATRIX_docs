@@ -23,7 +23,7 @@ step 3：Fill in the required (as well as optional) fields to finish registering
 
 step 4：Click 'Submit';
 
-step 5：After the deadline of transfer, MATRIX FOUNDATION will send the MAN coins to the fore-registered new address of each user;
+step 5：After the deadline of transfer, MATRIX FOUNDATION will send the MAN coins to the fore-registered (new) address of each user.
 
 
 > **Please note that the exchange ratio of MAN on MAINNET is 1:1**
