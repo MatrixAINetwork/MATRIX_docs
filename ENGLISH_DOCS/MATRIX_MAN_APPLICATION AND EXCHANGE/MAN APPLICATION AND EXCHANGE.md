@@ -1,8 +1,11 @@
 ### How to Apply for MANs for Testing Purpose (TESTNET)
 
-1.Send an email to [matrix_testnet@matrix.io](matrix_testnet@matrix.io) to apply for a MATRIX wallet address. 
 
-2.Then MATRIX will provide coins to each address after manual review
+1.You can visit our ONLINE WALLET ([http://testnet1.matrix.io/](http://testnet1.matrix.io/)) to register an account
+
+2.Send an email to [matrix_testnet@matrix.io](matrix_testnet@matrix.io) to provide your account address 
+
+3.Then MATRIX will provide coins to each address after manual review
 
 > **Please note that this is an address for testing**
 
