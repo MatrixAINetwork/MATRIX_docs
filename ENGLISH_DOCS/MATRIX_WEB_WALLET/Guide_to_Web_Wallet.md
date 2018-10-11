@@ -11,7 +11,7 @@ There are a couple of things you need to know about the web client before you us
 - The security of your wallet depends entirely on the security of your web browser.
 - You can put a pin on your wallet to prevent sending funds but any other access is dependent entirely on the access controls on your computer, not on the server or any login details. 
 
-Web URL: testnet1.matrix.io/
+Web URL: testnet.matrix.io/
 
 
 ## Create New Wallet
