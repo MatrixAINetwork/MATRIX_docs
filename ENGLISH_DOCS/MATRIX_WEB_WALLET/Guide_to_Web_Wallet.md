@@ -47,10 +47,10 @@ After clicking `I understand. Continue`:
 
 ## ONLINE TRANSACTIONS
 
-### One2One Transfer Transaction
+### One2One Transfer
 
 
-![](https://i.imgur.com/x7SaiOS.png)
+![](https://i.imgur.com/HAaIrP3.png)
 
 
 ![](https://i.imgur.com/OVM5XKr.png)
@@ -61,7 +61,7 @@ After clicking `I understand. Continue`:
 
 ### One2Multiple Transafer Transaction
 
-![](https://i.imgur.com/MRliRYA.png)
+![](https://i.imgur.com/jSVHBPn.png)
 
 For the remaining actions, please refer to 'One2One Transfer Transaction'
 
