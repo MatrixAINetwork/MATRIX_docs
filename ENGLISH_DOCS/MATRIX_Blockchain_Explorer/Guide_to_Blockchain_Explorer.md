@@ -43,3 +43,44 @@ Under Stats of the Home page, we can see four sub-tabs: HashRate Growth Chart, M
 
 
 
+
+## AI Server
+
+When a user attached a picture to a transaction, it is automatically analyzed and processed by the AI Server. The analysis results and transaction information are then displayed in html in the MATRIX Blockchain Browser.
+
+The AI Server supports several processing services including AI Pose Detection and AI Object Detection. The particular service used by the AI Server is selected according to image type.
+
+
+    AI Pose Detection
+The AI Pose Detection recognizes human posture. This AI service detects and marks different parts of the human body in static, flat pictures.
+
+#### Before the AI Pose Detection
+
+![](https://i.imgur.com/m6JcTkV.jpg)
+
+#### After the AI Pose Detection
+
+![](https://i.imgur.com/d80pm3I.png)
+
+
+The AI Pose Detection processing is implemented by another automatically triggered transaction. Note that the “from” address of this transaction is the AI Server address. The “to” address is the “from” address in the original transaction.
+
+
+    AI Object Detection
+The AI Object Detection is designed to detect objects in pictures and provide measures of statistical similarity between multiple objects.
+
+
+#### Before the AI Object Detection
+
+![](https://i.imgur.com/vj0MGZ8.png)
+
+
+#### After the AI Object Detection
+
+![](https://i.imgur.com/Hd690nm.png)
+
+As with the AI Pose Detection, the AI Object Detection processing is conducted automatically via another transaction. The “from” address of this transaction is the AI Server address. The “to” address is the “from” address in the original transaction.
+
+
+
+
