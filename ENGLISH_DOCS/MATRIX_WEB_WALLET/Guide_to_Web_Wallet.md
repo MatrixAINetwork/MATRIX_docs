@@ -77,7 +77,7 @@ Compared to 'Online Transactions', the most distinct feature of 'Offline Transac
 Texts, image upload, as well as video upload (480 bytes at the most) are all supported
 
 
-![](https://i.imgur.com/MJwquJp.png)
+![](https://i.imgur.com/Yd9xYYa.png)
 
 
 ![](https://i.imgur.com/QBaBaad.png)
