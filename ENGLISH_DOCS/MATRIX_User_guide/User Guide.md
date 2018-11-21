@@ -242,7 +242,7 @@ In the file genesis.json :
 
 How candidate list is generated:
 
-Step 1: Create a txt file named genesis.txt under go-matrix/core/core, where you should specify the nodeid, account and role of each node
+Step 1: Create a txt file named genesis.txt under go-matrix/core, where you should specify the nodeid, account and role of each node
 
 Step 2: Run the file create_genesis_data_test.go under go-matrix/core
 
