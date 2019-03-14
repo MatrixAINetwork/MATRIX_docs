@@ -2,7 +2,7 @@
 
 ## Documentation Guide
 
-+ If you want to know more about MATRIX Web Wallet, please check out ['Guide to Web Wallet'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/MATRIX_Web_Wallet/MATRIX%20Web%20Wallet.md)
++ If you want to know more about MATRIX Web Wallet, please check out ['MATRIX Online Wallet Manual.pdf'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/MATRIX_Web_Wallet/MATRIX%20Online%20Wallet%20Manual.pdf)
 
 + If you want to know more about MATRIX Block Explorer, please check out ['Guide to BlockChain Explorer'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/MATRIX_Blockchain_Explorer/Guide_to_Blockchain_Explorer.md)
 
