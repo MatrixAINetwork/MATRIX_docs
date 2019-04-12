@@ -22,7 +22,7 @@ Carry out your deposit actions if you want to run for a miner or validator node 
 
 Step 4: Copy your keystore file to folder keystore which is generated at Step 2 (/chaindata/keystore)
 
-Step 5: Create a file named signAccount.json under root, and its content is like:
+Step 5: Create a file named signAccount.json under root, and its content is like (please replace with your own address and password):
 
     [
       {
@@ -86,7 +86,7 @@ Step 2: Run Initiate command
 
     gman.exe --datadir chaindata\ init MANGenesis.json
 
-Step 3: Create a file named signAccount.json, whose contents are:
+Step 3: Create a file named signAccount.json, whose contents are like (please replace with your own address and password):
 
     [
       {
@@ -108,7 +108,7 @@ Step 5: Start gman
 
 In this step, you will need to input the password set in step 5.
 
-Step 8: Open another window
+Step 8: Open another window, Run "Attach":
 
     gman attach ipc:\\.\pipe\gman.ipc 
 
