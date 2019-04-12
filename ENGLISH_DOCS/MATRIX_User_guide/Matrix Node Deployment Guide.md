@@ -102,13 +102,14 @@ Step 4: Run:
 
 Upon the window prompt, you will be asked to set a password (which should contain upper-case letter[s], lower-case letter[s], number[s] and special character[s])
 
-Step 5: Start gman
+Step 5: Copy your keystore file to folder keystore which is generated at Step 2 (/chaindata/keystore)
+Step 6: Start gman
 
     gman --datadir chaindata  --networkid 1 --debug --verbosity 5  --manAddress  MAN.2skMrkoEkecKjJLPz6qTdi8B3NgjU --entrust entrust.json --gcmode archive --outputinfo 1 --syncmode full
 
-In this step, you will need to input the password set in step 5.
+In this step, you will need to input the password set in step 4.
 
-Step 8: Open another window, Run "Attach":
+Step 7: Open another window, Run "Attach":
 
     gman attach ipc:\\.\pipe\gman.ipc 
 
