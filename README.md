@@ -6,7 +6,7 @@
 
 + If you want to know more about MATRIX Block Explorer, please check out ['Guide to BlockChain Explorer'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/MATRIX_Blockchain_Explorer/Guide_to_Blockchain_Explorer.md)
 
-+ If you want to know more about How to deploy a MATRIX node, please check out ['User Guide'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/MATRIX_User_guide/User%20Guide.md)
++ If you want to know more about How to deploy a MATRIX node, please check out ['Deployment Guide'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/MATRIX_User_guide/Matrix%20Node%20Deployment%20Guide.md)
 
 + If you want to better understand what a specific term refers to, please check out ['glossary'](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/ENGLISH_DOCS/Glossary/Glossary.md)
 
