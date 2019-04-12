@@ -17,7 +17,7 @@
 
 ## 文档指引
 
-+ 如果你想了解 MATRIX 网页钱包的操作方法，请查看[《MATRIX 网页钱包简明手册.pdf》](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/MATRIX%20%E7%BD%91%E9%A1%B5%E9%92%B1%E5%8C%85%E7%AE%80%E6%98%8E%E6%89%8B%E5%86%8C.pdf)
++ 如果你想了解 MATRIX 网页钱包的操作方法，请查看[《MATRIX 新网页钱包简明手册.pdf》](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/MATRIX%20%E6%96%B0%E7%BD%91%E9%A1%B5%E9%92%B1%E5%8C%85%E7%AE%80%E6%98%8E%E6%89%8B%E5%86%8C.pdf)
 
 + 如果你想了解 MATRIX 区块链浏览器的操作方法，请查看[《MATRIX 区块链浏览器指南.pdf》](https://github.com/MatrixAINetwork/MATRIX_docs/blob/master/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/MATRIX%20%E5%8C%BA%E5%9D%97%E9%93%BE%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8C%87%E5%8D%97.pdf)
 
