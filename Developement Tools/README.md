@@ -4,10 +4,6 @@
 + Solidity- EVM smart contracting language
 + Bamboo - A morphing smart contract language
 
-#### Cross chain transaction APIs
-
-+ javascript SDK for ETH and ERC20 transactions
-+ javascipt SDK for BTC transactions
 #### Frameworks
 + Truffle - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, and Drizzle and Ganache
 + Dapp - Framework for DApp development, successor to DApple
@@ -18,6 +14,11 @@
 
 + Visual Studio Code - Visual Studio Code extension that adds support for Solidity
 + Intellij Solidity Plugin - Open-source plug-in for JetBrains IntelliJ Idea IDE (free/commercial) with syntax highlighting, formatting, code completion etc.
+
+### Developer Web Programming
+
++ Nodejs - Node.js is a run-time, or environment, for JavaScript code execution, creating an environment for JavaScript to be executed server-side
++ Golang - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. It is statically typed compiled language, and support built in concurrency model with the help of GoRoutines.
 
 ## Smart Contracts
 ### Smart Contracts Overview
