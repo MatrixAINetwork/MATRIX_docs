@@ -18,3 +18,25 @@
 
 + Visual Studio Code - Visual Studio Code extension that adds support for Solidity
 + Intellij Solidity Plugin - Open-source plug-in for JetBrains IntelliJ Idea IDE (free/commercial) with syntax highlighting, formatting, code completion etc.
+
+## Smart Contracts
+### Smart Contracts Overview
+Smart contracts are autonomous agents deployed on a blockchain which will execute code and actions depending on given conditions.
+
+### Usecases for smart contracts
+Function as ‘multi-signature’ accounts, so that funds are spent only when a required percentage of people agree
+Manage agreements between users, say, if one buys insurance from the other
+
+Provide utility to other contracts (similar to how a software library works)
+
+Store information about an application, such as domain registration information or membership records.
+Solidity language
+
+Solidity is a high-level programming language, that is used to implement smart contracts on MATRIX MAINNET.
+
+It has Python, C++ and JavaScript influences and is used for Ethereum Virtual Machine ( EVM ). As a result, it is fairly convenient and easy to grasp for those that are already familiar with the Python, C++ or JavaScript. 
+
+
+
+
+
