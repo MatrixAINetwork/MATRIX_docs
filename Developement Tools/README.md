@@ -1,19 +1,19 @@
 ## Developement Tools
 ### Developer Smart Contracts
 #### Smart Contract Languages
-+ Solidity- EVM smart contracting language
-+ Bamboo - A morphing smart contract language
++ [Solidity](https://solidity.readthedocs.io/en/latest/)- EVM smart contracting language
+
 
 #### Frameworks
-+ Truffle - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, and Drizzle and Ganache
-+ Dapp - Framework for DApp development, successor to DApple
++ [Truffle](https://truffleframework.com/) - Most popular smart contract development, testing, and deployment framework. The Truffle suite includes Truffle, and Drizzle and Ganache
++ [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 #### IDEs
-+ Remix - Web IDE with built in static analysis, test blockchain VM.
++ [Remix](https://remix.ethereum.org/#optimize=false) - Web IDE with built in static analysis, test blockchain VM.
 
-+ Pragma - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts. autocomplete-solidity, and language-solidity packages
++ [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts. autocomplete-solidity, and language-solidity packages
 
-+ Visual Studio Code - Visual Studio Code extension that adds support for Solidity
-+ Intellij Solidity Plugin - Open-source plug-in for JetBrains IntelliJ Idea IDE (free/commercial) with syntax highlighting, formatting, code completion etc.
++ [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
+
 
 ### Transaction APIs
 
