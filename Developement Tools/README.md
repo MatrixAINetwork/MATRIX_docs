@@ -4,8 +4,8 @@
 |                    | go                 | lib and demos                               | main functions realized                                         |
 |                    | java               | lib and demos                               | main functions realized                                             |
 | dapp dev tools     | docker-based single node startup | Easy Startup upon one-click, cross-platform, for both wallet and explorer    | User guide                                                 |
-|                    | Truffle dev framework    | 可以编译调试，不能一键部署到主链       | 核心是一键部署到matrix主链，协调truffle，remix，metamask |
-|                    | remix ide          | 可以编译调试，需要metamask插件进行部署 | 核心是一键部署到matrix主链，协调truffle，remix，metamask |
+|                    | Truffle dev framework    | Compile and Debug but not for one click deployment on mainnet       | MATRIX supports one click deployment, coordinating truffle，remix，metamask |
+|                    | remix ide          | Compile and Debug，requiring metamask plug-in for deployment | MATRIX supports one click deployment, coordinating truffle，remix，metamask |
 |                    | Write Contracts           | solidity official manual                       | https://solidity.readthedocs.io/en/v0.5.7/#              |
 | Open interface       | Cloud-based Wallet nodde         | rpc: api85.matrix.io               |                                                          |
 
