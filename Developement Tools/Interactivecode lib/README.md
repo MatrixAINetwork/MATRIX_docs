@@ -66,3 +66,17 @@ Transaction sending involves the following steps:
 | Output | err: error message  blocknumber: current height |
 | Example | blockNumber,err := man.GetBlockNumber() |
 
+| API | GetTransactionCount |
+|-----------------|--------------------------------------------------------------------|
+| Description | Get current nonce |
+| Input Parameter | address: source address  string: "latest", "earliest" or "pending" |
+| Output | *big.int: transaction number of a specified address |
+| Example | nonce, err := man.GetTransactionCount(from, "latest") |
+
+| API | GetBalance |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Description | Get the balance of specified account address at a specified block height |
+| Input Parameter | String: the address whose balances is to be obtained  Number|String - （optional ）If this value is not set, use the block set by man.defaultBlock, otherwise use the specified block |
+| Output | err: error message  []common.RPCBalanceType: BigNumber instance that contains the current balance of specified adder, in wei |
+| Example | balances,err := man.getBalance("MAN.47kRUvvpaQPHz3faEvesFcLpdYSim") |
+
