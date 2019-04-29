@@ -19,3 +19,14 @@
 + Go to `My Wallet` and click  `+ Add Token`
 
 ![](https://i.imgur.com/n63Etzv.png)
+
++ Fill in the TokenContract address and Token Symbol
+
+![](https://i.imgur.com/tnbqUcd.png)
+
+
++ Click `Save`
+
++ In the "Transfer" page, you can see the created token
+
+![](https://i.imgur.com/O5CmXNt.png)
