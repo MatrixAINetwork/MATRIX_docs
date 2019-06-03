@@ -45,7 +45,7 @@ There is also another method: if an address belonging to the Exchange is found i
 
 ### Transaction 
 
-MATRIX provides demo projects of JS, GO and Java versions for transaction sending. Please get it from GitHub ([demos](https://github.com/MatrixAINetwork/MATRIX_docs/tree/master/Developement%20Tools/Interactivecode%20lib))
+MATRIX provides demo projects of JS, GO and Java versions for transaction sending. Please get it from GitHub ([demos](https://github.com/MatrixAINetwork/TxSend-Sign-Demos))
 
 Transaction sending involves the following steps:
 
